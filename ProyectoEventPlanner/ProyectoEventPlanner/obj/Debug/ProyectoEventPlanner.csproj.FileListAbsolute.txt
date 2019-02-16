@@ -1,0 +1,16 @@
+C:\Users\Kath\source\repos\ProyectoEventPlanner\ProyectoEventPlanner\bin\Debug\ProyectoEventPlanner.exe.config
+C:\Users\Kath\source\repos\ProyectoEventPlanner\ProyectoEventPlanner\bin\Debug\ProyectoEventPlanner.exe
+C:\Users\Kath\source\repos\ProyectoEventPlanner\ProyectoEventPlanner\bin\Debug\ProyectoEventPlanner.pdb
+C:\Users\Kath\source\repos\ProyectoEventPlanner\ProyectoEventPlanner\obj\Debug\ProyectoEventPlanner.csprojAssemblyReference.cache
+C:\Users\Kath\source\repos\ProyectoEventPlanner\ProyectoEventPlanner\obj\Debug\ProyectoEventPlanner.Properties.Resources.resources
+C:\Users\Kath\source\repos\ProyectoEventPlanner\ProyectoEventPlanner\obj\Debug\ProyectoEventPlanner.csproj.GenerateResource.cache
+C:\Users\Kath\source\repos\ProyectoEventPlanner\ProyectoEventPlanner\obj\Debug\ProyectoEventPlanner.csproj.CoreCompileInputs.cache
+C:\Users\Kath\source\repos\ProyectoEventPlanner\ProyectoEventPlanner\obj\Debug\ProyectoEventPlanner.exe
+C:\Users\Kath\source\repos\ProyectoEventPlanner\ProyectoEventPlanner\obj\Debug\ProyectoEventPlanner.pdb
+C:\Users\Kath\source\repos\ProyectoEventPlanner\ProyectoEventPlanner\obj\Debug\ProyectoEventPlanner.Vista.Eventos.resources
+C:\Users\Kath\source\repos\ProyectoEventPlanner\ProyectoEventPlanner\obj\Debug\ProyectoEventPlanner.Vista.InicioSesion.resources
+C:\Users\Kath\source\repos\ProyectoEventPlanner\ProyectoEventPlanner\obj\Debug\ProyectoEventPlanner.Vista.AgregarDirectorio.resources
+C:\Users\Kath\source\repos\ProyectoEventPlanner\ProyectoEventPlanner\obj\Debug\ProyectoEventPlanner.Vista.EditarDirectorio.resources
+C:\Users\Kath\source\repos\ProyectoEventPlanner\ProyectoEventPlanner\obj\Debug\ProyectoEventPlanner.Vista.InicioDirectorio.resources
+C:\Users\Kath\source\repos\ProyectoEventPlanner\ProyectoEventPlanner\obj\Debug\ProyectoEventPlanner.Vista.VerDirectorio.resources
+C:\Users\Kath\source\repos\ProyectoEventPlanner\ProyectoEventPlanner\obj\Debug\ProyectoEventPlanner.Vista.Inicio.resources
